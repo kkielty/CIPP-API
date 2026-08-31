@@ -27,4 +27,4 @@ jobs:
           app-name: 'cipppbf4n-proc'
           slot-name: 'Production'
           package: ${{ env.AZURE_FUNCTIONAPP_PACKAGE_PATH }}
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C17612B505CB4529A450E9A86D085615 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_502B352C42254AA7821B91421C7986D8 }}
